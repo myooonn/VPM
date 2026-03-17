@@ -1,6 +1,6 @@
 {
   "name": "com.ezpz.optimizer",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "displayName": "EzPz Optimizer",
   "description": "VRChatアバター最適化ツール。ワンクリックでテクスチャのリサイズ、マテリアルの統合、ポリゴン削減が行えます。",
   "unity": "2022.3",
