@@ -1,0 +1,26 @@
+{
+  "name": "EzPz VPM Repository",
+  "id": "com.ezpz.vpm-repo",
+  "url": "https://your-github-username.github.io/ezpz/index.json",
+  "author": "EzPz Team",
+  "packages": {
+    "com.ezpz.optimizer": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.ezpz.optimizer",
+          "version": "1.0.0",
+          "displayName": "EzPz Optimizer",
+          "description": "VRChat avatar optimization tool. Resize textures, merge materials, and simplify meshes with one click.",
+          "unity": "2022.3",
+          "author": {
+            "name": "EzPz Team"
+          },
+          "url": "https://github.com/your-github-username/ezpz/releases/download/v1.0.0/com.ezpz.optimizer-1.0.0.zip",
+          "vpmDependencies": {
+            "com.vrchat.avatars": "3.5.0"
+          }
+        }
+      }
+    }
+  }
+}

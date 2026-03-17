@@ -1,0 +1,15 @@
+{
+  "name": "com.ezpz.optimizer",
+  "version": "1.0.0",
+  "displayName": "EzPz Optimizer",
+  "description": "VRChat avatar optimization tool. Resize textures, merge materials, and simplify meshes with one click.",
+  "unity": "2022.3",
+  "author": {
+    "name": "EzPz Team"
+  },
+  "category": "Editor",
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.5.0"
+  },
+  "samples": []
+}
