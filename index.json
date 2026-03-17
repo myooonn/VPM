@@ -1,8 +1,8 @@
 {
   "name": "EzPz VPM Repository",
   "id": "com.ezpz.vpm-repo",
-  "url": "https://myoooonn.github.io/ezpz/index.json",
-  "author": "myoooonn",
+  "url": "https://myooonn.github.io/VPM/index.json",
+  "author": "myooonn",
   "packages": {
     "com.ezpz.optimizer": {
       "versions": {
@@ -13,9 +13,9 @@
           "description": "VRChatアバター最適化ツール。ワンクリックでテクスチャのリサイズ、マテリアルの統合、ポリゴン削減が行えます。",
           "unity": "2022.3",
           "author": {
-            "name": "myoooonn"
+            "name": "myooonn"
           },
-          "url": "https://github.com/myoooonn/ezpz/releases/download/v1.0.0/com.ezpz.optimizer-1.0.0.zip",
+          "url": "https://github.com/myooonn/VPM/releases/download/v1.0.0/com.ezpz.optimizer-1.0.0.zip",
           "vpmDependencies": {
             "com.vrchat.avatars": "3.5.0"
           }
