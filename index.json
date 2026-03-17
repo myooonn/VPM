@@ -6,16 +6,16 @@
   "packages": {
     "com.ezpz.optimizer": {
       "versions": {
-        "1.0.0": {
+        "1.0.3": {
           "name": "com.ezpz.optimizer",
-          "version": "1.0.0",
+          "version": "1.0.3",
           "displayName": "EzPz Optimizer",
           "description": "VRChatアバター最適化ツール。ワンクリックでテクスチャのリサイズ、マテリアルの統合、ポリゴン削減が行えます。",
           "unity": "2022.3",
           "author": {
             "name": "myooonn"
           },
-          "url": "https://github.com/myooonn/VPM/releases/download/v1.0.0/com.ezpz.optimizer-1.0.0.zip",
+          "url": "https://github.com/myooonn/VPM/releases/download/v1.0.3/com.ezpz.optimizer-1.0.3.zip",
           "vpmDependencies": {
             "com.vrchat.avatars": "3.5.0"
           }
