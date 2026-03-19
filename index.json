@@ -17,7 +17,7 @@
           },
           "url": "https://github.com/myooonn/VPM/releases/download/VRChat/EzPzOptimizer_v1.0.3.zip",
           "vpmDependencies": {
-            "com.vrchat.avatars": "3.5.0"
+            "com.vrchat.avatars": "^3.5.0"
           }
         }
       }
